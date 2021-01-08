@@ -1,0 +1,11 @@
+{
+  "name": "mern-rest-app-shell",
+  "version": "1.0.0",
+  "description": "Store Application using Mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Vormack",
+  "license": "MIT"
+}
